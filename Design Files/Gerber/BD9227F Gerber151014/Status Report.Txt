@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BD9227F.PrjPcb]
+   Generated File[BD9227F.TXT]
+   Generated File[BD9227F.DRL]
+   Generated File[BD9227F.LDP]
+   Generated File[BD9227F.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:38:15 On 2015-10-14

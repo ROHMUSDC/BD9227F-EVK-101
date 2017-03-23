@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BD9227F.PcbDoc   2015-10-14  16:38:14
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BD9227F.TXT
+EIA File   : BD9227F.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        1.5mm (59.055mil)        Round          5         NPTH   72.48 mm (2.85 Inch)
+T2        3mm (118.11mil)          Round          4         NPTH   106.24 mm (4.18 Inch)
+---------------------------------------------------------------------------
+Totals                                            9                178.73 mm (7.04 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
